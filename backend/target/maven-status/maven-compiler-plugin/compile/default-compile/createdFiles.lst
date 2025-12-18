@@ -1,0 +1,13 @@
+com\zzh\aichat\config\AiProperties.class
+com\zzh\aichat\controller\User.class
+com\zzh\aichat\AichatApplication.class
+com\zzh\aichat\service\impl\ChatServiceImpl.class
+com\zzh\aichat\config\AiConfig.class
+META-INF\spring-configuration-metadata.json
+com\zzh\aichat\config\CorsConfig.class
+com\zzh\aichat\service\ChatService.class
+com\zzh\aichat\controller\ChatController.class
+com\zzh\aichat\controller\BasicController.class
+com\zzh\aichat\controller\PathVariableController.class
+com\zzh\aichat\model\ChatRoom.class
+com\zzh\aichat\service\AiManager.class
